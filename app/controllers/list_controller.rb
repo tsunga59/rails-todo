@@ -16,7 +16,6 @@ class ListController < ApplicationController
     end
 
     def edit
-        
     end
 
     def update
